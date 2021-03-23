@@ -41,13 +41,14 @@ var getWeather = function(city){
     });
 };
 
+
+
 var showWeather = function(weather, searchCity){
     weatherContainer.textContent= "";
     citySearchInput.textContent=searchCity;
 
     //console.log(weather)
-
-    var date = moment().format("dddd, MMM Do YYYY");
+    var date = moment().format("dddd, MMM Do YYYY,");
 $("#current-weather-container").text(date);
 
     var weatherIcon = document.createElement("img")
