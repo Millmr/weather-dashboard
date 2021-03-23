@@ -1,6 +1,6 @@
 # Weather-Dashboard
 
-Weather Dashboard is an application designed to bring the consumer current weather information by city!  It provides the current time, date, temperature, humidity levels, wind speed and UV index.  It also provides a five day forcast showing the weather for the coming week!  This appilication will make it easy for you know your weather immediately!
+Weather Dashboard is an application designed to bring the consumer current weather information by city!  It provides the current date, temperature, humidity levels, wind speed and UV index in the searched city.  It also provides a five day forcast showing the weather for the coming week!  This appilication will make it easy for you know your weather immediately!
 ![image](https://github.com/Millmr/weather-dashboard/blob/main/weather.png)
 
 ## How it Works
