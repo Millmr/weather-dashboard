@@ -79,7 +79,7 @@ $("#current-weather-container").text(date);
     UvIndex(lat,lon);
     
 }
-
+//Make a function to get five day forcast.
 var fiveDay = function(city) {
     var fiveDayURL = 'https://api.openweathermap.org/data/2.5/forecast?q='+cityInput.value+'&appid=09d819b6cd8b7d5a398b8c59319dfe0f&units=imperial'
     console.log(fiveDayURL);
